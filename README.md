@@ -1,4 +1,5 @@
-# shopcart
+# WebShopcart
+用vue3搭建的简易版网页购物车的前端代码
 
 ## Project setup
 ```
